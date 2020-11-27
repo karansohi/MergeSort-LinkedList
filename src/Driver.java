@@ -1,6 +1,6 @@
-/*Singh Karanbir 301776735
-This program conducts a merge sort on a linkedlist and returns the sorted list
-Data structure utilized: Array and linkedlist
+/*Author: Karanbir Singh
+Data Structures utilized: Usermade linkedlist and in built array.
+Program Details: Sorting a linkedlist using merge sort.
 */
 class Node {
     private int num;
